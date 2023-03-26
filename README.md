@@ -1,2 +1,4 @@
-# web-335
- Coursework for Bellevue University's WEB 335: Introduction to NoSQL
+# WEB 335: Introduction to NoSQL
+##  Contributors
+- Professor Krasso
+- Erin Brady
