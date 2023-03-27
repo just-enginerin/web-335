@@ -1,0 +1,8 @@
+Erin Brady
+WEB 335: Introduction to NoSQL
+Assignment 1.4: Business Rules
+Professor Krasso
+
+Every user must have a birth date.
+Each user can have multiple dependents.
+Each user can have multiple roles.
