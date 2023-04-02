@@ -1,0 +1,58 @@
+{
+    "NodeSecurity":
+    {
+        "user": "admin_user_1",
+        "roles": [
+            {
+                "role": "company_1_admin",
+                "permissions": [
+                    {
+                        "permission": "read"
+                    },
+                    {
+                        "permission": "write"
+                    },
+                    {
+                        "permission": "update"
+                    },
+                    {
+                        "permission": "delete"
+                    }
+                ]
+            },
+            {
+                "role": "company_2_standard_user",
+                "permissions": [
+                    {
+                        "permission": "read"
+                    }
+                ]
+            }
+        ]
+    }
+    
+    ,
+    "NodeBookCo": {
+        "book_isbn": "9781586178239",
+        "book_name": "The Vision of Freedom that Tolkien Got, and the West Forgot",
+        "book_price": 21.95,
+        "authors" : [
+            {
+                "author_email": "jonwitt@example.com",
+                "author_first_name": "Jonathan",
+                "author_last_name": "Witt"
+            },
+            {
+                "author_email": "jwrichards@example.com",
+                "author_first_name": "Jay Wesley",
+                "author_last_name": "Richards"
+            }
+        ],
+        "publisher": {
+            "publisher_code": "12345",
+            "publisher_name": "Ignatius Press",
+            "publisher_address": "1348 10TH AVE SAN FRANCISCO CA 94122"
+        }
+
+    }
+}

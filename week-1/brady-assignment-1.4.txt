@@ -1,8 +1,0 @@
-Erin Brady
-WEB 335: Introduction to NoSQL
-Assignment 1.4: Business Rules
-Professor Krasso
-
-A USER has one BIRTHDATE.
-A USER can have multiple DEPENDENTS.
-A USER can have multiple ROLE(s).
