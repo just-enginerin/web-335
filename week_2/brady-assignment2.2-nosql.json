@@ -1,0 +1,115 @@
+{
+    "NodeShopper": {
+        "_id": "123",
+        "firstName": "Jon",
+        "lastName": "Dorian",
+        "dateOfBirth": "Mar-8-1980",
+        "username": "BecauseOfJD",
+        "invoices": [
+            {
+                "_id": "456",
+                "createDate": "Feb-15-2023",
+                "shipDate": "Feb-24-2023",
+                "subtotal": 195.00,
+                "lineItems": [
+                    {
+                        "_id": "567",
+                        "productName": "Stethoscope",
+                        "price": 45.00,
+                        "qty": 3
+                    },
+                    {
+                        "_id": "678",
+                        "productName": "Shorts - M",
+                        "price": 30.00,
+                        "qty": 2
+                    }
+                ]
+            },
+            {
+                "_id": "789",
+                "createDate": "Mar-22-2023",
+                "shipDate": "Mar-28-2023",
+                "subtotal": 28.00,
+                "lineItems": [
+                    {
+                        "_id": "891",
+                        "productName": "Ballpoint Pen - Black",
+                        "price": 4.00,
+                        "qty": 7
+                    }
+                ]
+            }
+        ]
+    },
+    "NodeTech": 
+    
+    {
+        "studentId": "12345",
+        "firstName": "Erin",
+        "lastName": "Brady",
+        "enrollments": [
+            {
+                "term": "Spring 2023 - 1st session",
+                "gpa": "3.0",
+                "startDate": "Jan-02-2023",
+                "endDate": "Mar-05-2023",
+                "courses": [
+                    {
+                        "courseId": "WEB330"
+                    },
+                    {
+                        "courseId": "WEB420"
+                    }
+                ]
+            },
+            {
+                "term": "Spring 2023 - 2nd session",
+                "gpa": "2.8",
+                "startDate": "Mar-13-2023",
+                "endDate": "May-14-2023",
+                "courses": [
+                    {
+                        "courseId": "WEB335"
+                    },
+                    {
+                        "courseId": "WEB420"
+                    }
+                ]
+            }
+        ],
+        "courses": [
+            {
+                "courseId": "WEB330",
+                "description": "Enterprise JavaScript II",
+                "instructor": "Professor Krasso",
+                "score": "78",
+                "letterGrade": "C+"
+            },
+            {
+                "courseId": "WEB420",
+                "description": "Node.js",
+                "instructor": "Professor Krasso",
+                "score": "82",
+                "letterGrade": "B"
+            },
+            {
+                "courseId": "WEB335",
+                "description": "Introduction to NoSQL",
+                "instructor": "Professor Krasso",
+                "score": "TBA",
+                "letterGrade": "TBA"
+            },
+            {
+                "courseId": "WEB420",
+                "description": "RESTful APIs",
+                "instructor": "Professor Krasso",
+                "score": "TBA",
+                "letterGrade": "TBA"
+            }
+        ]
+
+    }
+
+    
+}
