@@ -1,5 +1,5 @@
 """
-	Title: brady-hobbies.js
+	Title: brady-hobbies.py
   Author: Erin Brady
   Date: 16 April 2023
   Description: Python Conditionals, Lists, and Loops.
