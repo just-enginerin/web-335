@@ -6,7 +6,6 @@
 """
 
 from pymongo import MongoClient
-import datetime
 
 # Build a connection string to connect to web335DB.
 client = MongoClient("mongodb+srv://web335_user:s3cret@bellevueuniversity.nhzwaya.mongodb.net/web335DBretryWrites=true&w=majority")
